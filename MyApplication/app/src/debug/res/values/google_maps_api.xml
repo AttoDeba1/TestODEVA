@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=14:FA:CC:D4:05:DB:19:68:5A:53:B9:DB:28:3F:F0:86:58:CE:71:2E%3Bcom.example.persol.myapplication
+
+    You can also add your credentials to an existing key, using this line:
+    14:FA:CC:D4:05:DB:19:68:5A:53:B9:DB:28:3F:F0:86:58:CE:71:2E;com.example.persol.myapplication
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
